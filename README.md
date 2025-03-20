@@ -11,7 +11,7 @@
  --->
  
 ### 👾 Experience
-**Backend Engineer** (2022 ~ 2024)<br>
+**Backend Engineer** (2021 ~ 2024)<br>
 During my time as a backend engineer, I worked with Java, Spring, and various relational databases to build scalable systems. I focused on optimizing performance and ensuring the reliability of services.
 
 **Data Engineer** (2025 ~ Present)<br>
