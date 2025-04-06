@@ -27,11 +27,13 @@ Currently, I’m transitioning into data engineering, focusing on large-scale da
 ### 👾 Algorithm
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/generate_badge?boj=medmedeee)](https://solved.ac/medmedeee)
-  <img src="http://mazandi.herokuapp.com/api?handle=medmedeee&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=medmedeee&theme=cold"/>
 
 ### 👾 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyzz&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyzz&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyzz&show_icons=true&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyzz&layout=compact&theme=buefy)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devyzz&theme=material-palenight&days=30&grid=true&hide_title=false&title_color=C792EA&bg_color=ffffff&radius=9)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!---
 devyzz/devyzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
