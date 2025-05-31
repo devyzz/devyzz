@@ -69,7 +69,9 @@
 ## Projects
 
 ### 1.고령 운전자 도로 위험도 분석 시스템 | 2025.04.23 - 2025.05.23
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=senior-road-risk-analyzer&theme=graywhite" />
+<a href="https://github.com/devyzz/senior-road-risk-analyzer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=senior-road-risk-analyzer&theme=graywhite" />
+</a>
 
 고령 운전자 사고 데이터를 기반으로 도로 위험도를 산정하고 시각화하는 분석 시스템입니다.
 
@@ -78,7 +80,9 @@
 - SHAP 기반 위험도 점수 모델을 설계 및 시각화
 
 ### 2. 채용 데이터 인사이트 시스템 | 2025.06.01 - 2025.06.30
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=datajob-insight&theme=graywhite" />
+<a href="https://github.com/devyzz/datajob-insight">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=datajob-insight&theme=graywhite" />
+</a>
 
 국내 채용 플랫폼에서 수집한 데이터를 분석하여 연도별 기술 트렌드를 시각화한 프로젝트입니다.
 
