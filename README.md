@@ -2,37 +2,55 @@
   <a href="./README.en.md"><img src="https://img.shields.io/badge/-🌐 English Version-blue?style=flat-square&logo=github" alt="English Version" /></a>
 </p>
 
-
 <p align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p> 
 
-<p align="center">
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Tektur&weight=800&size=40&duration=5000&pause=1000&color=7837f0&background=77FFF900&center=true&vCenter=true&width=800&lines=Reliable+systems.+Scalable+data" alt="Typing SVG" />
-</p>
--->
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Saira+Semi+Condensed&weight=800&size=40&letterSpacing=1px&duration=5000&pause=1000&color=333333&background=77FFF900&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+YEZI+%F0%9F%90%B0+a+DE+in+progress" alt="Typing SVG" /></a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyzz&layout=compact&theme=graywhite" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devyzz&show_icons=true&theme=graywhite" />
 </p>
 
----
 ## About Me
+#### ✨ 신뢰성과 재현성을 갖춘 데이터 시스템을 설계하고 구조적 설계와 최적화에 집중하는 개발자를 지향합니다.  
+#### ✨ 데이터와 소프트웨어 전반에 대한 통찰을 바탕으로 유연하게 소통하는 엔지니어로 성장하고자 합니다.
 
-I'm a <strong>software engineer</strong> with <strong>3 years of experience</strong> in backend development (<code>Java</code>, <code>Spring</code>) <br> 
-currently transitioning into <span style="color:#6A5ACD"><strong>data engineering</strong></span>.
+## Experience
 
-- Focused on building:
-  - <span style="color:#6A5ACD">Scalable backend systems</span>
-  - <span style="color:#6A5ACD">Automated and reproducible data workflows</span>
-  - <span style="color:#6A5ACD">Cloud-based pipelines</span> for batch and streaming
+### Backend Engineer | 2021.09 – 2024.09
 
-- I prioritize:
-  - <strong>Clarity</strong> in design  
-  - <strong>Efficiency</strong> in processing  
-  - <strong>Reproducibility</strong> in execution
- 
+3년간 Java와 Spring Boot 기반으로 기업 내부 시스템의 백엔드 개발을 담당했습니다.  
+주요 업무는 실시간 모니터링 시스템 개발, REST API 설계 및 운영이었으며,  
+Oracle과 PostgreSQL을 활용한 대용량 트랜잭션 처리 및 쿼리 성능 개선에도 주력했습니다.  
+또한 레거시 코드 리팩토링을 통해 시스템 안정성과 유지보수 효율성을 향상시키는 데 기여했습니다.
+
+
+### Data Engineer | 2025.01 – Present
+
+Apache Spark, Kafka, Airflow를 활용해 배치 및 스트리밍 파이프라인을 설계하고 있습니다.  
+Airflow를 이용한 ETL 자동화 및 DAG 관리를 실습하며, 파이프라인 운영 원리에 대한 이해를 넓히고 있습니다.  
+AWS EC2 및 S3 환경에서 데이터 처리 시스템의 구조를 설계하고, 실무 적용 가능성을 검증 중입니다.  
+Pandas, NumPy, SQL 등을 활용해 데이터를 정제하고 시각화하며, 분석과 파이프라인을 연결하는 구조를 직접 구성하고 있습니다.
+
+
+#### 🔥 Ongoing Skill Development
+
+1. **데이터 파이프라인 설계 및 운영** <br>
+  Spark, Kafka, Airflow 기반으로 배치 및 스트리밍 데이터 흐름을 구성하고, 구조적 원리를 중심으로 역량을 확장하고 있습니다.
+
+2. **클라우드 환경 및 자동화 적용** <br>
+  AWS 환경에서 데이터 처리 시스템을 설계하고, Docker와 GitHub Actions를 통한 배포 및 운영 자동화를 실습 중입니다.
+
+4. **정량적 분석 및 시각화 역량 내재화**  
+  Pandas, NumPy 등 Python 도구를 활용해 데이터를 정제하고, Streamlit 기반 시각화를 통해 결과를 효과적으로 전달하는 방식을 연구하고 있습니다.
+
+5.  **AI·ML 기반 문제 해결 역량 강화**  
+  주요 머신러닝 및 딥러닝 알고리즘의 개념과 구조를 학습하며, 실제 데이터 문제에 적용 가능한 방법론을 체계적으로 정리 중입니다.
+
 ---
 
 ## Technical Skills
@@ -48,40 +66,25 @@ currently transitioning into <span style="color:#6A5ACD"><strong>data engineerin
 
 ---
 
-## Experience
-
-### Backend Engineer (2021.09 – 2024.09)
-- Developed and maintained monitoring and automation systems using Java and Spring Boot
-- Designed and exposed RESTful APIs for internal and external services
-- Worked extensively with Oracle and PostgreSQL for high-throughput transactional systems
-- Refactored legacy components to improve reliability and reduce technical debt
-
-### Data Engineer (2025.01 – Present)
-- Building batch and streaming data pipelines using Apache Spark, Kafka, and Airflow
-- Automating ETL jobs and orchestration with Apache Airflow
-- Deploying pipelines to cloud environments (AWS EC2, S3)
-- Practicing reproducible data processing with Python (Pandas, NumPy) and SQL
-
----
 ## Projects
 
-### 1. Senior Road Risk Analyzer | 2025.04.23 - 2025.05.23
+### 1.고령 운전자 도로 위험도 분석 시스템 | 2025.04.23 - 2025.05.23
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=senior-road-risk-analyzer&theme=graywhite" />
 
-Geospatial risk scoring and visualization system for elderly driver safety
+고령 운전자 사고 데이터를 기반으로 도로 위험도를 산정하고 시각화하는 분석 시스템입니다.
 
-- Built a map-based dashboard using `Folium`, `FastAPI`
-- Integrated accident datasets with road condition data
-- Applied risk scoring model using SHAP and accident frequency
+- `Folium`, `FastAPI`를 활용한 지도 기반 대시보드 구현
+- 사고 이력 데이터와 도로 조건 데이터를 통합하여 분석
+- SHAP 기반 위험도 점수 모델을 설계 및 시각화
 
-### 2. datajon-insight  | 2025.06.01 - 2025.06.30
+### 2. 채용 데이터 인사이트 시스템 | 2025.06.01 - 2025.06.30
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=devyzz&repo=datajob-insight&theme=graywhite" />
 
-Data pipeline and dashboard for analyzing job market trends from Korean platforms
+국내 채용 플랫폼에서 수집한 데이터를 분석하여 연도별 기술 트렌드를 시각화한 프로젝트입니다.
 
-- Crawled job postings from Saramin, Wanted, Jumpit
-- Extracted skill and tech trends by year and company size
-- Visualized with `Streamlit`, `Pandas`, `Matplotlib`
+- 사람인, 원티드, 점핏 등에서 채용공고를 크롤링 및 정제
+- 연도 및 기업 규모에 따른 기술 키워드 출현 빈도 분석
+- `Streamlit`, `Pandas`, `Matplotlib` 기반의 대시보드 구현
 
 ---
 
@@ -95,6 +98,6 @@ Data pipeline and dashboard for analyzing job market trends from Korean platform
 
 ## Connect
 
-- 📧 Email: y.wintering@gmail.com
+- 📧 e-mail: y.wintering@gmail.com
 - 📝 Blog: devyzz.github.io
 ---
